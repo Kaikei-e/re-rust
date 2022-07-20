@@ -1,2 +1,6 @@
 /target
 /.idea/vcs.xml
+
+# DS
+
+.DS_Store
